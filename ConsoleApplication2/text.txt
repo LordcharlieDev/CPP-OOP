@@ -1,0 +1,4 @@
+3
+Dragalchuk Bogdan Eduardovych 2560 Programming C++Programmer 5000
+Tomechek Artem Mykolaiovych 2550 YYY ArtDesigner 2500
+Ovodiuk Maksum Mykolaiovuch 2565 Economichnu Buhgalter 6000
